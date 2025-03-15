@@ -1,5 +1,5 @@
 {
-    "name": "vpm-package.editor",
+    "name": "numeira.sibling-index-overrider.editor",
     "references": [ ],
     "includePlatforms": [
         "Editor"

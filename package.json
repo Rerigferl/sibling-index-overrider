@@ -1,8 +1,8 @@
 {
-  "name": "vpm-package",
-  "version": "0.0.0",
-  "displayName": "",
-  "description": "",
-  "url" : "",
-  "vpmDependencies" : { }
+    "name": "numeira.sibling-index-overrider",
+    "version": "0.0.0",
+    "displayName": "",
+    "description": "",
+    "url": "https://github.com/Rerigferl/sibling-index-overrider",
+    "vpmDependencies": {}
 }
